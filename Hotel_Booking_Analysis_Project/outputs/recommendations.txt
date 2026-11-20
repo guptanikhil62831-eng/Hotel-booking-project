@@ -1,0 +1,5 @@
+1. Prioritize marketing partnerships and service quality for 'OTA', the highest-revenue channel in this dataset (revenue 5706519.12).
+2. Review cancellation reasons and confirmation policies for 'Direct Website', which has the highest channel cancellation rate (23.03%).
+3. Plan staffing, inventory and demand-based pricing ahead of October 2025, the highest-revenue month in the data.
+4. Monitor demand and guest feedback for 'Standard' rooms, which contribute the most room-type revenue (10665374.52).
+5. Use lead-time cancellation patterns to test flexible deposits or reminder messages; measure cancellation changes before making the policy permanent.

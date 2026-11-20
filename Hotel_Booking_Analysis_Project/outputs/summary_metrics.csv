@@ -1,0 +1,11 @@
+Metric,Value
+Total unique bookings after duplicate removal,750.0
+Duplicate Booking_ID rows detected,22.0
+Missing cancellation statuses treated as not-cancelled,0.0
+Total cancelled bookings,149.0
+Overall cancellation percentage,19.87
+Confirmed room nights,2393.0
+Realized booking revenue,21095635.45
+Missing Lead_Time_Days filled with median,93.0
+Missing Room_Rate filled with median,8898.56
+Revenue outliers detected by IQR,1.0

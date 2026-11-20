@@ -1,0 +1,2 @@
+Booking_ID,Checkin_Date,Lead_Time_Days,Room_Type,Room_Rate,Nights,Booking_Channel,Traveler_Type,Canceled,Arrival_Month,Arrival_Year,Arrival_Weekday,Total_Nights,Is_Cancelled,Booking_Revenue,Lead_Time_Category
+B00004,2025-05-15,159.0,Standard,14898.76,7,Travel Agent,Business,No,May,2025,Thursday,7,False,104291.32,Advance (90+)
